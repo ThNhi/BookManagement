@@ -1,4 +1,4 @@
-## Welcome to Math-Util repository. This repo offer various math
+## Welcome to J2.L.P0004 repository. This repo offer various math
 methods used in your projects as the helper ones.
 
 [![MathUtil project | CI process included | ©2021 by ThNhi](https://github.com/ThNhi/math-uti/actions/workflows/mathutil-ci-action.yml/badge.svg)](https://github.com/ThNhi/math-uti/actions/workflows/mathutil-ci-action.yml)
